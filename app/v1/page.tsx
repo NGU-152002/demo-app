@@ -3,7 +3,7 @@ import Preview from "@/components/v1_preview/Preview"
 
 function page() {
   return (
-    <Preview />
+    <Preview /> 
   )
 }
 
